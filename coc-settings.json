@@ -1,0 +1,5 @@
+{
+  "diagnostic.checkCurrentLine": true,
+  "java.format.settings.url": "/home/shadowninja404/.config/coc/extensions/node_modules/redhat.java/eclipse-formatter.xml",
+  "java.home": "/usr/lib/jvm/java-16-openjdk"
+}
